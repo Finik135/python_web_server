@@ -30,8 +30,8 @@ class SimpleHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
                 <title>Greet</title>
             </head>
             <body>
-                <h1>Hello, {name}!</h1>
-                <a href="/">Back</a>
+                <h1>Привітики, {name}!</h1>
+                <a href="/">Назад</a>
             </body>
             </html>
             '''
