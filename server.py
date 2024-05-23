@@ -31,6 +31,7 @@ class SimpleHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
             </head>
             <body>
                 <h1>Привітики, {name}!</h1>
+                <h2>Вітаю у світі поезії!</h2>
                 <a href="/">Назад</a>
             </body>
             </html>
